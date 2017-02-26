@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestSample</string>
+
+    <string name="splash_text">This is the splash screen</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="bt_submit">Create User</string>
+    <string name="error_empty_field">Fields can\'t be empty</string>
+    <string name="error_connection">Couldn\'t connect to server, please try again later</string>
+    <string name="error_wrong_credentials">Username or password invalid</string>
+    <string name="main_text">This is the main screen</string>
+</resources>
